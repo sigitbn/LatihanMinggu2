@@ -1,3 +1,3 @@
 owner: Sigit Kariagil
 
-editor : katon
+editor : hai katon
